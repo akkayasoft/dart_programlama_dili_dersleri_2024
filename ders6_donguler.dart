@@ -33,4 +33,7 @@ do{
 
 }while(i>10);
 
+//Klavyeden girilen aralıktaki sayıların karelerini bulan program
+//klavyeden girilen aralıktaki sayıların %10 unu bulan program
+
 }

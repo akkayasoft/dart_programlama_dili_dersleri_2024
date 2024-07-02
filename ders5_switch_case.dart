@@ -17,4 +17,5 @@ switch(isim){
   case "guest":print("Misafir giriş yaptı");break;
   case "user":print("Kullanıcı giriş yaptı");break;
 }
+// Bir öğrencinin belge alıp almadığını bulan program
 }
